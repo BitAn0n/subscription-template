@@ -30,7 +30,7 @@ Responsive subscription page template for PasarGuard.
 Run installer script (choose your fallback language):
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/PasarGuard/subscription-template/main/install.sh | sudo bash -s -- --lang fa
+curl -fsSL https://raw.githubusercontent.com/BitAn0n/subscription-template/main/install.sh | sudo bash -s -- --lang fa
 ```
 
 Supported values for `--lang`: `en`, `fa`, `zh`, `ru`
