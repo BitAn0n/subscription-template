@@ -226,7 +226,7 @@ const AppCard = React.memo(function AppCard({ app, desc, dlToShow, fallbackIcon:
                             </span>
                         )}
                     </div>
-                    <div className="page-badge text-muted-foreground">{app.platform}</div>
+                    
                 </div>
             </div>
 
